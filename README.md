@@ -21,6 +21,8 @@
     <img src="outlook\2.png" width="350" alt="">
     <img src="outlook\3.png" width="350" alt="">
   </p>
+  <p align="center"><img src="outlook\2.png" width="350" alt=""></p>
+  <p align="center"><img src="outlook\3.png" width="350" alt=""></p>
 
   <h2 id="installation">Installation</h2>
   <ol>
