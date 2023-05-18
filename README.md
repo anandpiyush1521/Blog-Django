@@ -1,4 +1,4 @@
-<h2>SnapBlogs</h2>
+<h1><b><i>SnapBlogs</i></b></h1>
 <h2>Table of Contents</h2>
   <ul>
     <li><a href="#features">Features</a></li>
