@@ -12,12 +12,15 @@
   <ul>
     <li>User Registration and Authentication: Users can create accounts, log in, and log out. Only authenticated users can create blog posts, comment on posts, and like posts.</li>
     <li>Blog Posts: Users can create, edit, and delete their blog posts. Posts can include text, images, and other media. Posts can be categorized and tagged for easy organization and search.</li>
-    <li>Commenting System: Users can leave comments on blog posts, fostering engagement and discussion.</li>
-    <li>Like System: Users can like and unlike blog posts to show appreciation for content they enjoy.</li>
-    <li>User Profiles: Each user has a profile page where their published posts, comments, and liked posts are displayed.</li>
     <li>Search Functionality: Users can search for specific blog posts based on keywords, categories, or tags.</li>
     <li>Responsive Design: The website is designed to be responsive and work well on various devices and screen sizes.</li>
   </ul>
+  <h3>Screen Shots</h3>
+  <p align="center">
+    <img src="outlook\1.png" width="350" alt="">
+    <img src="outlook\2.png" width="350" alt="">
+    <img src="outlook\3.png" width="350" alt="">
+  </p>
 
   <h2 id="installation">Installation</h2>
   <ol>
@@ -57,8 +60,6 @@
     <li>Create an account or log in to an existing account.</li>
     <li>Explore the existing blog posts, search for specific posts, or browse posts by category or tag.</li>
     <li>Create your own blog posts, edit or delete them as needed.</li>
-    <li>Leave comments on other users' blog posts.</li>
-    <li>Like posts that you find interesting.</li>
     <li>Customize your profile page.</li>
   </ol>
 
