@@ -17,12 +17,10 @@
   </ul>
   <h3>Screen Shots</h3>
   <p align="center">
-    <img src="outlook\1.png" width="350" alt="">
-    <img src="outlook\2.png" width="350" alt="">
-    <img src="outlook\3.png" width="350" alt="">
+    <img src="outlook\1.png" width="500" alt="">
   </p>
-  <p align="center"><img src="outlook\2.png" width="350" alt=""></p>
-  <p align="center"><img src="outlook\3.png" width="350" alt=""></p>
+  <p align="center"><img src="outlook\2.png" width="500" alt=""></p>
+  <p align="center"><img src="outlook\3.png" width="500" alt=""></p>
 
   <h2 id="installation">Installation</h2>
   <ol>
